@@ -1,0 +1,34 @@
+[
+  {
+    "transactionDate": "2020-02-03",
+    "weekDay": "Segunda",
+    "description": "Tesouro Selic",
+    "type": "Resgate",
+    "value": 10060.25,
+    "status": "Realizada"
+  },
+  {
+    "transactionDate": "2020-02-03",
+    "weekDay": "Segunda",
+    "description": "Tesouro IPCA+ com Juros Semestrais 2050",
+    "type": "Aplicacao",
+    "value": 3958.73,
+    "status": "Solicitada"
+  },
+  {
+    "transactionDate": "2020-04-29",
+    "weekDay": "Quarta",
+    "description": "NIBSPE",
+    "type": "Aplicacao",
+    "value": 500,
+    "status": "Realizada"
+  },
+  {
+    "transactionDate": "2020-05-05",
+    "weekDay": "Terça",
+    "description": "Fundo BNP",
+    "type": "Resgate",
+    "value": 15000,
+    "status": "Cancelada"
+  }
+]
